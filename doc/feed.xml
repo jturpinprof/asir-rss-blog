@@ -2,33 +2,123 @@
 <rss version="2.0">
   <channel>
     <title>Blog ASIR - Opiniones y Experiencias</title>
-    <link>https://tuusuario.github.io/asir-rss-blog/</link>
+    <link>https://jturpinprof.github.io/asir-rss-blog/</link>
     <description>Reflexiones de un estudiante de ASIR sobre el ciclo y el cloud computing.</description>
     <language>es-es</language>
 
     <item>
       <title>¿Nos vamos a la nube?</title>
-      <link>https://tuusuario.github.io/asir-rss-blog/entrada1.html</link>
+      <link>https://jturpinprof.github.io/asir-rss-blog/entrada1.html</link>
       <description><![CDATA[
-      (Aquí copias el texto completo de la primera entrada)
+      <header>
+    <h1>¿Nos vamos a la nube?</h1>
+    <p class="meta">Publicado por Estudiante ASIR</p>
+  </header>
+
+  <article>
+    <p>
+      Como estudiantes de ASIR, siempre nos dicen que este ciclo nos prepara para administrar sistemas
+      “modernos”. Pero he llegado a la conclusión de que nuestro currículo tiene un pequeño problema…
+      <strong>vive atrapado en el pasado</strong>. Mientras el mundo IT gira cada vez más en torno a
+      plataformas como AWS, Azure, Google Cloud u OCI, nosotros apenas rascamos la superficie de lo que
+      significa realmente el <em>cloud computing</em>.
+    </p>
+
+    <p>
+      Entiendo que necesitamos bases sólidas: redes, sistemas operativos, virtualización… pero parece que
+      la nube sigue tratándose como algo opcional, cuando hoy en día es el corazón de prácticamente
+      cualquier empresa. En muchas ofertas de trabajo piden experiencia o al menos familiaridad con
+      servicios en la nube, pero en el temario oficial apenas se menciona de pasada.
+    </p>
+
+    <p>
+      Es irónico: vamos a ser administradores de sistemas, pero los sistemas del futuro (y del presente)
+      están en la nube y nosotros estamos aprendiendo como si todo fuese a quedarse <em>on-premise</em>.
+      Ojalá los currículos se actualizasen de verdad, porque siento que podríamos salir mucho más
+      preparados si el <strong>cloud computing</strong> formara parte real y obligatoria de nuestra
+      formación en ASIR.
+    </p>
+  </article>
+
+  <nav>
+    <p><a href="index.html">← Volver al índice del blog</a></p>
+  </nav>
       ]]></description>
       <pubDate>Mon, 02 Dec 2024 12:00:00 +0100</pubDate>
     </item>
 
     <item>
       <title>He descubierto AWS Academy</title>
-      <link>https://tuusuario.github.io/asir-rss-blog/entrada2.html</link>
+      <link>https://jturpinprof.github.io/asir-rss-blog/entrada2.html</link>
       <description><![CDATA[
-      (Aquí copias la segunda entrada)
+      <header>
+    <h1>He descubierto AWS Academy</h1>
+    <p class="meta">Publicado por Estudiante ASIR</p>
+  </header>
+
+  <article>
+    <p>
+      La semana pasada probé por primera vez un laboratorio de <strong>AWS Academy</strong>… y tengo que
+      reconocer que me voló la cabeza. Entré pensando que no tenía ni idea de nube y que aquello iba a ser
+      demasiado complicado, pero resultó ser todo lo contrario.
+    </p>
+
+    <p>
+      En el laboratorio monté un <strong>Visual Studio Code Server</strong> en cuestión de minutos, usando
+      recursos que nunca había tocado hasta ahora. Después desplegué una pequeña web para una cafetería, y
+      lo mejor es que no tuve que instalar nada en mi portátil ni pelearme con configuraciones raras. Todo
+      era cuestión de seguir pasos lógicos e ir entendiendo cómo se conectan los servicios dentro de AWS.
+    </p>
+
+    <p>
+      De repente, conceptos que en clase parecían algo abstractos cobraron sentido práctico. Me dio la
+      sensación de estar usando tecnología actual, de la que te piden en el mercado laboral de verdad.
+      Ojalá este tipo de laboratorios formara parte oficial del módulo, porque es muy motivador aprender
+      algo que ves útil desde el primer minuto.
+    </p>
+  </article>
+
+  <nav>
+    <p><a href="index.html">← Volver al índice del blog</a></p>
+  </nav>
       ]]></description>
       <pubDate>Tue, 03 Dec 2024 12:00:00 +0100</pubDate>
     </item>
 
     <item>
       <title>Quest tamos haciendo</title>
-      <link>https://tuusuario.github.io/asir-rss-blog/entrada3.html</link>
+      <link>https://jturpinprof.github.io/asir-rss-blog/entrada3.html</link>
       <description><![CDATA[
-      (Aquí copias la tercera entrada)
+      <header>
+    <h1>Quest tamos haciendo</h1>
+    <p class="meta">Publicado por Estudiante ASIR</p>
+  </header>
+
+  <article>
+    <p>
+      Siguiendo mi exploración por el mundo cloud, descubrí <strong>AWS Skill Builder</strong> y su curso
+      gamificado <strong>AWS Cloud Quest: Cloud Foundation</strong>. Sí, es literalmente un
+      <em>videojuego educativo</em>. Te creas un avatar y vas resolviendo misiones en una ciudad virtual
+      utilizando servicios reales de AWS.
+    </p>
+
+    <p>
+      La verdad… engancha más que muchos ejercicios tradicionales. Vas desbloqueando niveles, te explican
+      conceptos mientras los aplicas y, sin darte cuenta, empiezas a entender qué es una VPC, cómo funciona
+      el almacenamiento en la nube o cómo se despliega una aplicación web en un entorno cloud.
+    </p>
+
+    <p>
+      Me sorprendió que aprender <strong>cloud computing</strong> pudiera ser tan interactivo y divertido.
+      Si algo así se integrara en ASIR, creo que mucha más gente se animaría a seguir formándose por su
+      cuenta. Para mí, <strong>AWS Quest</strong> ha sido una puerta de entrada a un aprendizaje mucho más
+      práctico y dinámico sobre la nube.
+    </p>
+  </article>
+
+  <nav>
+    <p><a href="index.html">← Volver al índice del blog</a></p>
+  </nav>
       ]]></description>
       <pubDate>Wed, 04 Dec 2024 12:00:00 +0100</pubDate>
     </item>
