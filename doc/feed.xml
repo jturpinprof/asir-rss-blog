@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Blog ASIR - Opiniones y Experiencias</title>
+    <link>https://tuusuario.github.io/asir-rss-blog/</link>
+    <description>Reflexiones de un estudiante de ASIR sobre el ciclo y el cloud computing.</description>
+    <language>es-es</language>
+
+    <item>
+      <title>¿Nos vamos a la nube?</title>
+      <link>https://tuusuario.github.io/asir-rss-blog/entrada1.html</link>
+      <description><![CDATA[
+      (Aquí copias el texto completo de la primera entrada)
+      ]]></description>
+      <pubDate>Mon, 02 Dec 2024 12:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>He descubierto AWS Academy</title>
+      <link>https://tuusuario.github.io/asir-rss-blog/entrada2.html</link>
+      <description><![CDATA[
+      (Aquí copias la segunda entrada)
+      ]]></description>
+      <pubDate>Tue, 03 Dec 2024 12:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Quest tamos haciendo</title>
+      <link>https://tuusuario.github.io/asir-rss-blog/entrada3.html</link>
+      <description><![CDATA[
+      (Aquí copias la tercera entrada)
+      ]]></description>
+      <pubDate>Wed, 04 Dec 2024 12:00:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
