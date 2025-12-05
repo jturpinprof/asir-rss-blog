@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Blog ASIR - Opiniones y Experiencias</title>
-    <link>https://jturpinprof.github.io/asir-rss-blog/</link>
+    <link>https://jturpinprof.github.io/asir-rss-blog/index.html</link>
     <description>Reflexiones de un estudiante de ASIR sobre el ciclo y el cloud computing.</description>
     <language>es-es</language>
 
@@ -41,7 +41,7 @@
   </article>
 
   <nav>
-    <p><a href="index.html">← Volver al índice del blog</a></p>
+    <p><a href="https://jturpinprof.github.io/asir-rss-blog/index.html">← Volver al índice del blog</a></p>
   </nav>
       ]]></description>
       <pubDate>Mon, 02 Dec 2024 12:00:00 +0100</pubDate>
@@ -79,7 +79,7 @@
   </article>
 
   <nav>
-    <p><a href="index.html">← Volver al índice del blog</a></p>
+    <p><a href="https://jturpinprof.github.io/asir-rss-blog/index.html">← Volver al índice del blog</a></p>
   </nav>
       ]]></description>
       <pubDate>Tue, 03 Dec 2024 12:00:00 +0100</pubDate>
@@ -117,7 +117,7 @@
   </article>
 
   <nav>
-    <p><a href="index.html">← Volver al índice del blog</a></p>
+    <p><a href="https://jturpinprof.github.io/asir-rss-blog/index.html">← Volver al índice del blog</a></p>
   </nav>
       ]]></description>
       <pubDate>Wed, 04 Dec 2024 12:00:00 +0100</pubDate>
