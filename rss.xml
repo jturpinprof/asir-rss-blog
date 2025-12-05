@@ -130,6 +130,30 @@
       ]]></description>
       <pubDate>Wed, 04 Dec 2024 12:00:00 +0100</pubDate>
     </item>
+        <item>
+      <title>Nueva aventura en la nube</title>
+      <link>https://jturpinprof.github.io/asir-rss-blog/entrada4.html</link>
+      <guid isPermaLink="true">https://jturpinprof.github.io/asir-rss-blog/entrada4.html</guid>
+      <description><![CDATA[
+      <header>
+        <h1>Nueva aventura en la nube</h1>
+        <p class="meta">Publicado por Estudiante ASIR</p>
+      </header>
+
+      <article>
+        <p>
+          Aquí un pequeño resumen o el texto completo de tu nueva entrada…
+        </p>
+      </article>
+
+      <nav>
+        <p><a href="https://jturpinprof.github.io/asir-rss-blog/index.html">
+        ← Volver al índice del blog</a></p>
+      </nav>
+      ]]></description>
+      <pubDate>Thu, 05 Dec 2024 12:00:00 +0100</pubDate>
+    </item>
+
 
   </channel>
 </rss>
